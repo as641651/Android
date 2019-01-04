@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LinkMainActivityAndLayout</string>
+    <string name="button">Log in</string>
+    <string name="my_great_app">My Great App</string>
+    <string name="password">password</string>
+    <string name="your_name">Your name</string>
+</resources>
