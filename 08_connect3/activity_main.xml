@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:id="@+id/linearLayout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginRight="8dp"
+        android:gravity="center"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <TableRow
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:id="@+id/button30"
+                android:layout_width="@dimen/widget_size"
+                android:layout_height="@dimen/widget_size"
+                android:contentDescription="img"
+                android:onClick="clickFunction"
+                android:padding="10dp"
+                android:tag="0" />
+
+            <LinearLayout
+                android:layout_width="@dimen/border_width"
+                android:layout_height="match_parent"
+                android:background="@color/border_color"
+                android:orientation="horizontal">
+
+            </LinearLayout>
+
+            <ImageView
+                android:id="@+id/button31"
+                android:layout_width="@dimen/widget_size"
+                android:layout_height="@dimen/widget_size"
+                android:contentDescription="img"
+                android:onClick="clickFunction"
+                android:padding="10dp"
+                android:tag="1" />
+
+            <LinearLayout
+                android:layout_width="@dimen/border_width"
+                android:layout_height="match_parent"
+                android:background="@color/border_color"
+                android:orientation="horizontal"></LinearLayout>
+
+            <ImageView
+                android:id="@+id/button32"
+                android:layout_width="@dimen/widget_size"
+                android:layout_height="@dimen/widget_size"
+                android:contentDescription="img"
+                android:onClick="clickFunction"
+                android:padding="10dp"
+                android:tag="2" />
+
+        </TableRow>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/border_width"
+            android:background="@color/border_color"
+            android:orientation="vertical"></LinearLayout>
+
+        <TableRow
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:id="@+id/button33"
+                android:layout_width="@dimen/widget_size"
+                android:layout_height="@dimen/widget_size"
+                android:contentDescription="img"
+                android:onClick="clickFunction"
+                android:padding="10dp"
+                android:tag="3" />
+
+            <LinearLayout
+                android:layout_width="@dimen/border_width"
+                android:layout_height="match_parent"
+                android:background="@color/border_color"
+                android:orientation="horizontal">
+
+            </LinearLayout>
+
+            <ImageView
+                android:id="@+id/button34"
+                android:layout_width="@dimen/widget_size"
+                android:layout_height="@dimen/widget_size"
+                android:contentDescription="img"
+                android:onClick="clickFunction"
+                android:padding="10dp"
+                android:tag="4" />
+
+            <LinearLayout
+                android:layout_width="@dimen/border_width"
+                android:layout_height="match_parent"
+                android:background="@color/border_color"
+                android:orientation="horizontal">
+
+            </LinearLayout>
+
+            <ImageView
+                android:id="@+id/button35"
+                android:layout_width="@dimen/widget_size"
+                android:layout_height="@dimen/widget_size"
+                android:contentDescription="img"
+                android:onClick="clickFunction"
+                android:padding="10dp"
+                android:tag="5" />
+
+        </TableRow>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/border_width"
+            android:background="@color/border_color"
+            android:orientation="vertical">
+
+        </LinearLayout>
+
+        <TableRow
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:id="@+id/button36"
+                android:layout_width="@dimen/widget_size"
+                android:layout_height="@dimen/widget_size"
+                android:contentDescription="img"
+                android:onClick="clickFunction"
+                android:padding="10dp"
+                android:tag="6" />
+
+            <LinearLayout
+                android:layout_width="@dimen/border_width"
+                android:layout_height="match_parent"
+                android:background="@color/border_color"
+                android:orientation="horizontal">
+
+            </LinearLayout>
+
+            <ImageView
+                android:id="@+id/button37"
+                android:layout_width="@dimen/widget_size"
+                android:layout_height="@dimen/widget_size"
+                android:contentDescription="img"
+                android:onClick="clickFunction"
+                android:padding="10dp"
+                android:tag="7" />
+
+            <LinearLayout
+                android:layout_width="@dimen/border_width"
+                android:layout_height="match_parent"
+                android:background="@color/border_color"
+                android:orientation="horizontal">
+
+            </LinearLayout>
+
+            <ImageView
+                android:id="@+id/button38"
+                android:layout_width="@dimen/widget_size"
+                android:layout_height="@dimen/widget_size"
+                android:contentDescription="img"
+                android:onClick="clickFunction"
+                android:padding="10dp"
+                android:tag="8" />
+
+        </TableRow>
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/textView20"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginBottom="56dp"
+        android:text="RED"
+        android:textColor="@android:color/holo_red_dark"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/linearLayout"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.501"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <Button
+        android:id="@+id/button39"
+        android:layout_width="223dp"
+        android:layout_height="169dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginBottom="8dp"
+        android:background="#2f92cf66"
+        android:onClick="playAgain"
+        android:text="play again"
+        android:textColor="@color/colorPrimaryDark"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        android:visibility="gone"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+</android.support.constraint.ConstraintLayout>
