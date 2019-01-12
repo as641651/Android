@@ -1,0 +1,33 @@
+#canvas{
+  width:1000px;
+  height:600px;
+  background-color: #CCCCCC;
+  border: black dashed 2px;
+  overflow: hidden;
+}
+
+#shape{
+  /* Use percentage so that we can remain inside the canvas*/
+  width:20%;
+  height: 30%;
+  background-color: red;
+  margin:5px;
+  position: relative;
+  top:65%;
+  left:50%;
+
+}
+
+#time-taken{
+  background-color: yellow;
+  color:red;
+  font-weight: bold;
+}
+
+p{
+  font-family: 'Gloria Hallelujah', cursive;
+}
+
+h1{
+  font-family: 'Shrikhand', cursive;
+}
