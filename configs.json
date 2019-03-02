@@ -6,61 +6,61 @@
         "pdf": false
     },
     "01_ProjectStructure.ipynb": {
-        "code_url": "https://github.com/as641651/AndroidTutorial/tree/master/01_ProjectStructure",
+        "code_url": "https://github.com/as641651/Android/tree/master/01_ProjectStructure",
         "page_id": 96002,
         "page_name": "01_ProjectStructure",
         "pdf": false
     },
     "02_LinkActivityAndLayout_Toast.ipynb": {
-        "code_url": "https://github.com/as641651/AndroidTutorial/tree/master/02_LinkActivityAndLayout_Toast",
+        "code_url": "https://github.com/as641651/Android/tree/master/02_LinkActivityAndLayout_Toast",
         "page_id": 96003,
         "page_name": "02_LinkActivityAndLayout_Toast",
         "pdf": false
     },
     "03_Image_ChangeAttributesInJava.ipynb": {
-        "code_url": "https://github.com/as641651/AndroidTutorial/tree/master/03_Image_ChangeAttributesInJava",
+        "code_url": "https://github.com/as641651/Android/tree/master/03_Image_ChangeAttributesInJava",
         "page_id": 96004,
         "page_name": "03_Image_ChangeAttributesInJava",
         "pdf": false
     },
     "04_CurrencyConverter_LayoutDetails.ipynb": {
-        "code_url": "https://github.com/as641651/AndroidTutorial/tree/master/04_CurrencyConverter_LayoutDetails",
+        "code_url": "https://github.com/as641651/Android/tree/master/04_CurrencyConverter_LayoutDetails",
         "page_id": 96005,
         "page_name": "04_CurrencyConverter_LayoutDetails",
         "pdf": false
     },
     "05_Examples_UsingRandomNum_Classes_trycatch.ipynb": {
-        "code_url": "https://github.com/as641651/AndroidTutorial/tree/master/05_Examples_UsingRandomNum_Classes_trycatch",
+        "code_url": "https://github.com/as641651/Android/tree/master/05_Examples_UsingRandomNum_Classes_trycatch",
         "page_id": 96006,
         "page_name": "05_Examples_UsingRandomNum_Classes_trycatch",
         "pdf": false
     },
     "06_Constrained_Linear_layout.ipynb": {
-        "code_url": "https://github.com/as641651/AndroidTutorial/tree/master/06_Constrained_Linear_layout",
+        "code_url": "https://github.com/as641651/Android/tree/master/06_Constrained_Linear_layout",
         "page_id": 96007,
         "page_name": "06_Constrained_Linear_layout",
         "pdf": false
     },
     "07_Animation.ipynb": {
-        "code_url": "https://github.com/as641651/AndroidTutorial/tree/master/07_Animation",
+        "code_url": "https://github.com/as641651/Android/tree/master/07_Animation",
         "page_id": 96008,
         "page_name": "07_Animation",
         "pdf": false
     },
     "08_TablesBordersGrids_Tags_GrabItemByTag.ipynb": {
-        "code_url": "https://github.com/as641651/AndroidTutorial/tree/master/08_TablesBordersGrids_Tags_GrabItemByTag",
+        "code_url": "https://github.com/as641651/Android/tree/master/08_TablesBordersGrids_Tags_GrabItemByTag",
         "page_id": 96009,
         "page_name": "08_TablesBordersGrids_Tags_GrabItemByTag",
         "pdf": false
     },
     "09_MediaPlayer_SeekBar_VideoView_MediaController.ipynb": {
-        "code_url": "https://github.com/as641651/AndroidTutorial/tree/master/09_MediaPlayer_SeekBar_VideoView_MediaController",
+        "code_url": "https://github.com/as641651/Android/tree/master/09_MediaPlayer_SeekBar_VideoView_MediaController",
         "page_id": 96010,
         "page_name": "09_MediaPlayer_SeekBar_VideoView_MediaController",
         "pdf": false
     },
     "10_viewID_resourceID_appPhrase.ipynb": {
-        "code_url": "https://github.com/as641651/AndroidTutorial/tree/master/10_viewID_resourceID_appPhrase",
+        "code_url": "https://github.com/as641651/Android/tree/master/10_viewID_resourceID_appPhrase",
         "page_id": 96011,
         "page_name": "10_viewID_resourceID_appPhrase",
         "pdf": false
@@ -72,97 +72,97 @@
         "pdf": false
     },
     "12_Handler_Runnable_Timer_CountDown.ipynb": {
-        "code_url": "https://github.com/as641651/AndroidTutorial/tree/master/12_Handler_Runnable_Timer_CountDown",
+        "code_url": "https://github.com/as641651/Android/tree/master/12_Handler_Runnable_Timer_CountDown",
         "page_id": 96013,
         "page_name": "12_Handler_Runnable_Timer_CountDown",
         "pdf": false
     },
     "13_Async_Download_Permissions.ipynb": {
-        "code_url": "https://github.com/as641651/AndroidTutorial/tree/master/13_Async_Download_Permissions",
+        "code_url": "https://github.com/as641651/Android/tree/master/13_Async_Download_Permissions",
         "page_id": 96014,
         "page_name": "13_Async_Download_Permissions",
         "pdf": false
     },
     "14_DownloadImages.ipynb": {
-        "code_url": "https://github.com/as641651/AndroidTutorial/tree/master/14_DownloadImages",
+        "code_url": "https://github.com/as641651/Android/tree/master/14_DownloadImages",
         "page_id": 96015,
         "page_name": "14_DownloadImages",
         "pdf": false
     },
     "15_JSON_Api_EncodeURL_HideKeyboard.ipynb": {
-        "code_url": "https://github.com/as641651/AndroidTutorial/tree/master/15_JSON_Api_EncodeURL_HideKeyboard",
+        "code_url": "https://github.com/as641651/Android/tree/master/15_JSON_Api_EncodeURL_HideKeyboard",
         "page_id": 96016,
         "page_name": "15_JSON_Api_EncodeURL_HideKeyboard",
         "pdf": false
     },
     "16_GoogleMapsAPI.ipynb": {
-        "code_url": "https://github.com/as641651/AndroidTutorial/tree/master/16_GoogleMapsAPI",
+        "code_url": "https://github.com/as641651/Android/tree/master/16_GoogleMapsAPI",
         "page_id": 96017,
         "page_name": "16_GoogleMapsAPI",
         "pdf": false
     },
     "17_GettingUsersLocation_GeoCoding.ipynb": {
-        "code_url": "https://github.com/as641651/AndroidTutorial/tree/master/17_GettingUsersLocation_GeoCoding",
+        "code_url": "https://github.com/as641651/Android/tree/master/17_GettingUsersLocation_GeoCoding",
         "page_id": 96018,
         "page_name": "17_GettingUsersLocation_GeoCoding",
         "pdf": false
     },
     "18_MultipleActivities_PassingData.ipynb": {
-        "code_url": "https://github.com/as641651/AndroidTutorial/tree/master/18_MultipleActivities_PassingData",
+        "code_url": "https://github.com/as641651/Android/tree/master/18_MultipleActivities_PassingData",
         "page_id": 96019,
         "page_name": "18_MultipleActivities_PassingData",
         "pdf": false
     },
     "19_SharedPreferences.ipynb": {
-        "code_url": "https://github.com/as641651/AndroidTutorial/tree/master/19_SharedPreferences",
+        "code_url": "https://github.com/as641651/Android/tree/master/19_SharedPreferences",
         "page_id": 96020,
         "page_name": "19_SharedPreferences",
         "pdf": false
     },
     "20_Menu.ipynb": {
-        "code_url": "https://github.com/as641651/AndroidTutorial/tree/master/20_Menu",
+        "code_url": "https://github.com/as641651/Android/tree/master/20_Menu",
         "page_id": 96021,
         "page_name": "20_Menu",
         "pdf": false
     },
     "21_AlertDialog.ipynb": {
-        "code_url": "https://github.com/as641651/AndroidTutorial/tree/master/21_AlertDialog",
+        "code_url": "https://github.com/as641651/Android/tree/master/21_AlertDialog",
         "page_id": 96022,
         "page_name": "21_AlertDialog",
         "pdf": false
     },
     "22_SQL.ipynb": {
-        "code_url": "https://github.com/as641651/AndroidTutorial/tree/master/22_SQL",
+        "code_url": "https://github.com/as641651/Android/tree/master/22_SQL",
         "page_id": 96023,
         "page_name": "22_SQL",
         "pdf": false
     },
     "23_WebView_Assets.ipynb": {
-        "code_url": "https://github.com/as641651/AndroidTutorial/tree/master/23_WebView_Assets",
+        "code_url": "https://github.com/as641651/Android/tree/master/23_WebView_Assets",
         "page_id": 96024,
         "page_name": "23_WebView_Assets",
         "pdf": false
     },
     "24_FileDirectories_WebArchieve.ipynb": {
-        "code_url": "https://github.com/as641651/AndroidTutorial/tree/master/24_FileDirectories_WebArchieve",
+        "code_url": "https://github.com/as641651/Android/tree/master/24_FileDirectories_WebArchieve",
         "page_id": 96025,
         "page_name": "24_FileDirectories_WebArchieve",
         "pdf": false
     },
     "25_REST_API_GET_POST_with_HttpURLConnection.ipynb": {
-        "code_url": "https://github.com/as641651/AndroidTutorial/tree/master/25_REST_API_GET_POST_with_HttpURLConnection",
+        "code_url": "https://github.com/as641651/Android/tree/master/25_REST_API_GET_POST_with_HttpURLConnection",
         "page_id": 96026,
         "page_name": "25_REST_API_GET_POST_with_HttpURLConnection",
         "pdf": false
     },
     "26_UploadFiles_with_MultiPart_HttpURLConn.ipynb": {
-        "code_url": "https://github.com/as641651/AndroidTutorial/tree/master/26_UploadFiles_with_MultiPart_HttpURLConn",
+        "code_url": "https://github.com/as641651/Android/tree/master/26_UploadFiles_with_MultiPart_HttpURLConn",
         "page_id": 96027,
         "page_name": "26_UploadFiles_with_MultiPart_HttpURLConn",
         "pdf": false
     },
     "27_CapturePhotoVideo_and_save.ipynb": {
-        "code_url": "https://github.com/as641651/AndroidTutorial/tree/master/27_CapturePhotoVideo_and_save",
+        "code_url": "https://github.com/as641651/Android/tree/master/27_CapturePhotoVideo_and_save",
         "page_id": 96028,
         "page_name": "27_CapturePhotoVideo_and_save",
         "pdf": false
@@ -174,31 +174,31 @@
         "pdf": false
     },
     "28B_Camera2API_Implementation.ipynb": {
-        "code_url": "https://github.com/as641651/AndroidTutorial/tree/master/28B_Camera2API_Implementation",
+        "code_url": "https://github.com/as641651/Android/tree/master/28B_Camera2API_Implementation",
         "page_id": 96030,
         "page_name": "28B_Camera2API_Implementation",
         "pdf": false
     },
     "28C_RecordingVideo.ipynb": {
-        "code_url": "https://github.com/as641651/AndroidTutorial/tree/master/28C_RecordingVideo",
+        "code_url": "https://github.com/as641651/Android/tree/master/28C_RecordingVideo",
         "page_id": 96031,
         "page_name": "28C_RecordingVideo",
         "pdf": false
     },
     "29_MotionSensor.ipynb": {
-        "code_url": "https://github.com/as641651/AndroidTutorial/tree/master/29_MotionSensor",
+        "code_url": "https://github.com/as641651/Android/tree/master/29_MotionSensor",
         "page_id": 96032,
         "page_name": "29_MotionSensor",
         "pdf": false
     },
     "30_Websockets_OkHttp.ipynb": {
-        "code_url": "https://github.com/as641651/AndroidTutorial/tree/master/30_Websockets_OkHttp",
+        "code_url": "https://github.com/as641651/Android/tree/master/30_Websockets_OkHttp",
         "page_id": 96033,
         "page_name": "30_Websockets_OkHttp",
         "pdf": false
     },
     "31_Socket.ipynb": {
-        "code_url": "https://github.com/as641651/AndroidTutorial/tree/master/31_Socket",
+        "code_url": "https://github.com/as641651/Android/tree/master/31_Socket",
         "page_id": 96034,
         "page_name": "31_Socket",
         "pdf": false
@@ -216,7 +216,7 @@
         "pdf": false
     },
     "author": "Aravind Sankaran",
-    "dir_path": "/home/sankaran/exercise/ML/AndroidTutorial/",
+    "dir_path": "/home/sankaran/exercise/ML/Android/",
     "dir_static": "files",
     "file_list": [
         "00_Installation_and_setup.ipynb",
@@ -257,6 +257,6 @@
         "Refresher_Java.ipynb"
     ],
     "module_id": 96000,
-    "module_name": "AndroidTutorial",
+    "module_name": "Android",
     "tags": "DI"
 }
